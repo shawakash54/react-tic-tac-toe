@@ -15,4 +15,4 @@ To run in local environment:
 To make a build for deployment
 -------------------------------
 
-npm run build
+`npm run build`
