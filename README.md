@@ -1,7 +1,7 @@
 React tic-tac-toe app
 ------------------------
 
-Deployed link: https://vigilant-liskov-b55da7.netlify.com
+Deployed link: https://tic-tac-toe-reactjs.netlify.com
 
 It is a simple tic tac toe game build on reactjs.
 
